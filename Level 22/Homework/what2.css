@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-decoration: overline;
+}
+h3 {
+    text-shadow: 5px 4px 4px;
+}
+h4 {
+    color: rgb(21, 175, 131);
+}
+h5 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h6 {
+    text-transform: capitalize;
+}
+body {
+    background-color: blueviolet;
+}
