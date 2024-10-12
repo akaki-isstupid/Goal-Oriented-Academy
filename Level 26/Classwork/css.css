@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(91, 69, 219);
+}
+.a1{
+    color: aqua;
+    font-family: 'cursive',monospace,'Courier New', Courier;
+    text-align: center;
+}
+.a2{
+    color: aqua;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.b2{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(208, 231, 37);
+}
+a:hover{
+    color: rgb(20, 214, 198);
+    font-size: 20px;
+    
+}
