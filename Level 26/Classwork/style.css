@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(71, 69, 219);
+    font-family: 'cursive';
+    background-image: url(azrze\ ar\ var.jpg)
+}
+.a1{
+    color: aqua;
+    font-family: 'cursive',monospace,'Courier New', Courier;
+    text-align: center;
+}
+.a2{
+    color: aqua;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.b2{
+    font-size: 20px;
+    text-decoration: none;
+    color: blueviolet;
+}
+a:hover{
+    color: rgb(20, 214, 198);
+    font-size: 20px;
+    
+}
+.b3{
+    color: rgb(0, 234, 255);
+    font-size: 25px;
+    
+}
+.goatravel {
+    text-align: center;
+}
+.a12 {
+    display: flex;
+    padding: 10px 20px;
+    background: #1743e3;
+    border: 2px solid #1743e3;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba black;
+    font-size: 16px;
+    color: #aeaeae;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: .5s;
+    opacity: 0;
+    animation: slideTop 1s ease forwards;
+    animation-delay: 2s;
+    margin-right: 1375px;
+}
+.a12:hover{
+    background-color: aquamarine;
+    
+} 
+@keyframes slideTop {
+    0% {
+        transform: translateY(100px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.plane{
+    float: right;
+    border-radius: 20px;
+}
+
