@@ -1,0 +1,55 @@
+.webname {
+    position: fixed;
+    left: 200px;
+    color: aquamarine;
+}
+
+body {
+    background: linear-gradient(blue,green);
+}
+a {
+    position: fixed;
+    top: 30px;
+    font-size: 30px;
+    text-decoration: none;
+    color: aquamarine;
+
+}
+a:hover{
+    color: aqua;
+}
+img{
+    position: relative;
+    top: 400px;
+    left: 300px;
+}
+.money{
+    position: relative;
+    top: 400px;
+    font-size: 30px;
+    color: aliceblue;
+    left: 300px;
+}
+button{
+    height: 40px;
+    position: relative;
+    top: 330px;
+    color: black;
+    background-color: red;
+    left: 500px;
+    border-radius: 30px;
+    
+}
+.wut{
+    position: relative;
+    top: 250px;
+    font-size: 20px;
+    color: aqua;
+    left: 300px;
+}
+.best {
+    position: relative;
+    bottom: 200px;
+    font-size: 70px;
+    left: 300px;
+}
