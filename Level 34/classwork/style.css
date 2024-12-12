@@ -1,0 +1,36 @@
+div{
+height: 150px;
+width: 150px;
+background-color: aqua;
+
+
+
+}
+
+*{
+ margin: 150px;
+
+
+}
+
+.div1:hover{
+   background-color: brown;
+   transform: rotate(50deg);
+   transition: 1s;
+}
+.div2:hover{
+  background-color: aquamarine;
+  transform: scale(2);
+  transition: 1s;
+}
+.div3:hover{
+   background-color: blue;
+   transform: translate(110px);
+   transition: 1s;
+}
+
+.div4:hover{
+  background-color: black;
+  transform: skew(150deg);
+  transition: 1s;
+}
