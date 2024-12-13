@@ -1,0 +1,1 @@
+# ar maxsovs 23 levelze ra gaviaret
