@@ -1,0 +1,32 @@
+:root{
+    --h1color: rgb(0, 242, 77);
+    --h1font-size: 20px;
+    --h1margin: 30px;
+
+    --Pletterspace: 20px;
+
+    --btnbackgroundcolor: red;
+    --btnpadding: 50px;
+    --btntransition: 1s;
+}
+h1{
+ color: var(--h1color);
+ font-size: var(--h1font-size);
+ margin: var(--h1margin);
+
+}
+p{
+letter-spacing: var(--Pletterspace);
+position: var(--Pposition);
+
+
+}
+
+button{
+    background-color: var(--btnbackgroundcolor);
+    padding: var(--btnpadding);
+    transition: var(--btntransition);
+
+
+
+}

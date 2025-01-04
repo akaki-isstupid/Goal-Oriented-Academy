@@ -1,0 +1,40 @@
+h1 header{
+   background-color: rgb(255, 255, 255);
+   font-family: cursive;
+   font-weight: bold;
+   
+}
+
+header{
+   background-color: grey;
+    height: 200px;
+
+
+}
+
+img{
+    height: 400px;
+
+
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  font-family: monospace;
+  
+
+}
+@media (max-width: 400px){
+   img{
+    height: 100px;
+   }
+   header{
+    display: flex;
+    justify-content: bottom;
+
+   }
+   
+
+
+}

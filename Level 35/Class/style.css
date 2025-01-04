@@ -1,0 +1,15 @@
+div{
+    height: 35px;
+    width: 50px;
+    background-color: lightgreen;
+    border-radius: 50px;
+    animation-name: classwork;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes classwork {
+  60% {background-color: rgba(42, 142, 165, 0.677); }
+  70% {transform: rotate(50deg);}
+  80% {margin-left: 90px;}
+}

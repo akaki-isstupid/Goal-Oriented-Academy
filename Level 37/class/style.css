@@ -1,0 +1,8 @@
+img{
+    -webkit-mask-image: url(https://cdn-icons-png.flaticon.com/512/29/29072.png);
+    width: 500px;
+}
+h1{
+    -webkit-user-modify: read-write;
+    -webkit-box-reflect: below;
+}
